@@ -1,6 +1,5 @@
 # ![alt-текст](http://www.cnetsec.com/dfaq_wordpress/wp-content/uploads/2018/08/%E4%B8%8B%E8%BD%BD2.jpg "PortSwigger Academy")
-# **Web Security Academy from PortSwigger** (Burp Suite developer). 
-Перевод на **русский язык** для облегчения понимания материала.
+ Перевод на **русский язык** для облегчения понимания материала.
 ___
 
 ## Access Control / Управление доступом (авторизация). Уязвимости и возможные методы повышения привелегий
